@@ -14,11 +14,11 @@ PHPとMySQLを用いたWebアプリケーション開発の学習用プロジェ
 ## 使用技術
 
 分類:技術 
-バックエンド :PHP 
-データベース : MySQL 8.0 
-Webサーバー :Apache 
-開発環境:  Docker、Docker Compose 
-DB管理: phpMyAdmin 
+##バックエンド: PHP 
+##データベース: MySQL 8.0 
+##Webサーバー: Apache 
+##開発環境: Docker、Docker Compose 
+##DB管理: phpMyAdmin 
 
 ## 開発で学んだこと
 Webアプリケーション開発に必要なサーバーとデータベースの構成を学ぶため、Dockerを用いて複数のサービスを連携させる開発環境を構築しました。
